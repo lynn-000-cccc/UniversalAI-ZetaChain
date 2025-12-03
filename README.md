@@ -98,20 +98,18 @@
 
 ### 🎥 工作坊视频
 
-- **以太坊 × AI：创新的火花？与 ERC-8004 作者一起探索无需信任的智能体**
+- **ZetaChain 通用资产与跨链 DeFi 开发导论**
 
-  - [YouTube](https://youtu.be/Uu9NaCnSZoE?si=Ud9v4JToXI_1gqYO)
-  - [Bilibili](https://www.bilibili.com/video/BV1ChWkzvEdf/)
+  - [Bilibili](https://www.bilibili.com/video/BV1zWSgBnEcE/?share_source=copy_web&vd_source=fd6ac63c6fb1f02dcdf46371c30b2168)
 
-- **解锁 AI 智能体记忆的核心：Unibase 如何赋能 ERC-8004 信任框架**
-  - [YouTube](https://youtu.be/DwvZHa-xNRc?si=Y3Ylg-UQV0qlkTND)
+- **Qwen Agent 与 ZetaChain 全链交互实战导论**
   - [Bilibili](https://www.bilibili.com/video/BV1JhsyzTEaV/?spm_id_from=333.1387.homepage.video_card.click)
 
 ### 📖 学习材料
 
-**推荐的 14 天学习计划**：[Trustless Agents CoLearning 14 天每日学习计划](https://lxdao.notion.site/Trustless-Agents-CoLearning-14-daily-learning-plans-28cdceffe40b807590bfdbf7ccd356ae)
+**推荐的 14 天学习计划**：[通用 AI · Universal AI 14 天每日学习计划](https://lxdao.notion.site/AI-14-2addceffe40b80a28a5dd0fbdd3494d2?source=copy_link)
 
-**第一阶段更多学习材料和笔记**：[Trustless Agents (ERC-8004) 强化共学](https://intensivecolearn.ing/en/programs/trustless-agents)
+**第一阶段更多学习材料和笔记**：[通用 AI · Universal AI 强化共学](https://intensivecolearn.ing/programs/Universal-AI)
 
 ## 🤝 联合主办
 
